@@ -9,4 +9,4 @@
 
 - Mengidentifikasi Kota dengan jumlah seller paling banyak
 
-[Kaggle]("https://www.kaggle.com/code/wildanmujjahid/e-commerce-analytics-bahasa-indonesia")
+[Kaggle](https://www.kaggle.com/code/wildanmujjahid/e-commerce-analytics-bahasa-indonesia)
